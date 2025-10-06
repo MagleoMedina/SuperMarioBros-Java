@@ -1,0 +1,14 @@
+// Cargamos la canción.
+1 song1=song.wav
+
+// Se Carga la canción para el siguiente mapa.
+1 song2=song2.wav
+
+// Se Carga la canción para el siguiente mapa.
+1 song3=song3.wav
+
+// Se Carga la canción para el siguiente mapa.
+1 song4=song4.wav
+
+// Cargamos el sonido que se produce al golpear un Brick
+1 blockHit=block-hit.wav
