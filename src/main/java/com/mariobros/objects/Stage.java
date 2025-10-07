@@ -125,7 +125,7 @@ public abstract class Stage implements Runnable, KeyListener, MouseListener, Win
 
     public Stage(int mode) {
         initTime = System.currentTimeMillis();
-        setFPS(80);
+        setFPS(60);
         ge = GraphicsEnvironment.getLocalGraphicsEnvironment();
         screenDevice = ge.getDefaultScreenDevice();
 
