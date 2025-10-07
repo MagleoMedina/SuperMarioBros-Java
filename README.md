@@ -35,10 +35,10 @@ http://programmingheroes.blogspot.com.es/2013/05/remake-super-mario-java.html
 - **Inspiración:** 
 Nintendo Mario Bros
 - **Colaboradores:** 
-Magleo Medina : MagleoM
-Aaron Sanchez : 
-Cesar Villarroel : 
-Julio Guzman : se paso a industrial 
+    - Magleo Medina : MagleoM
+    - Aaron Sanchez : 
+    - Cesar Villarroel : 
+    - Julio Guzman : se paso a industrial 
 
 ## Licencia
 
