@@ -31,7 +31,7 @@ public class MainStage extends Stage {
         setSize(960 - 6, 640 - 6);// 960-6, 640-6
         window.setResizable(false);
         // Creamos el mapa en el mundo=1 nivel=1.
-        map = new Map(this, 1, 1);
+        map = new Map(this, 1, 4);
         // Creamos los cargadores pero de momento
         // no cargamos nada.
         loader = new ImagesLoader("res/img", "loader");

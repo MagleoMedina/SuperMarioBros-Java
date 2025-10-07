@@ -81,6 +81,9 @@ public class Map {
     // la
     // clase------------------------------------------------------------------------------------------------
 
+    public Map(){
+
+    }
     public Map(Stage s, int world, int level) {
         StringBuffer sb = new StringBuffer(FILE_PREFIX);
         int first = sb.indexOf("*");
@@ -298,7 +301,7 @@ public class Map {
 
             stage.window.setVisible(false); // Ocultar la ventana del juego
             Stage.showPerformance();// mostrar las stats antes de cerrar el Jframe
-            creditos(); // se llaman a los creditos los cuales cerraran el Jframe
+           creditos(); // se llaman a los creditos los cuales cerraran el Jframe
 
         } else {
 

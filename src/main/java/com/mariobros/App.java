@@ -1,8 +1,11 @@
 package com.mariobros;
 
+
+
 import com.mariobros.login.login;
 import com.mariobros.menudeayuda.presentacion;
 import com.mariobros.objects.MainStage;
+
 
 public class App {
   private static boolean loginClosed = true;
@@ -65,7 +68,7 @@ public class App {
     }
 
       //Arranca el Login
-    public static void  intro(){
+    public static void  start(){
         loginClosed = loginGame();
 
         // Verificar si la ventana de login se cerró correctamente
@@ -74,6 +77,7 @@ public class App {
             try {
                 Thread.sleep(3000);
                 menuDeAyuda();
+                startMarioGame();
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
@@ -85,9 +89,8 @@ public class App {
     }
 
     public static void main(String[] args) {
-      
-        intro();
-        //YSURI
-        startMarioGame();
+
+        start();
+  
     }
 }
