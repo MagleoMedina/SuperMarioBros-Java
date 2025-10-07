@@ -11,7 +11,7 @@ El juego incluye:
 
 ## Requisitos
 
-- Java 8 o superior
+- Java 21 o superior
 - IDE compatible con proyectos Java (Eclipse, IntelliJ IDEA, NetBeans)
 - Sistema operativo Windows, Linux o MacOS
 
