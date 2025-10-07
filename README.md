@@ -38,7 +38,7 @@ Nintendo Mario Bros
     - Magleo Medina : @MagleoM
     - Aaron Sanchez : 
     - Cesar Villarroel : 
-    - Julio Guzman : se paso a industrial que jeva de pana
+    - Julio Guzman : se paso a industrial que pussy (de parte @Manuel)
 
 ## Licencia
 
